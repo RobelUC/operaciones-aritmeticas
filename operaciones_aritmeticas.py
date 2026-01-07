@@ -6,4 +6,14 @@ class OperacionesAritmeticas:
     def suma_dos_numeros(self):
         return self.numero1 + self.numero2
     
+    def resta_dos_numeros(self):
+        return self.numero1 - self.numero2
+    
+    def multiplicacion_dos_numeros(self):
+        return self.numero1 * self.numero2
+    
+    
+
+    
+    
 

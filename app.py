@@ -6,3 +6,11 @@ if __name__ == "__main__":
 
     operaciones = OperacionesAritmeticas(numero1, numero2)
     print("La suma de", numero1, "y", numero2, "es:", operaciones.suma_dos_numeros())
+
+    operaciones = OperacionesAritmeticas(numero1, numero2)
+    print("La resta de", numero1, "y", numero2, "es:", operaciones.resta_dos_numeros())
+
+    operaciones = OperacionesAritmeticas(numero1, numero2)
+    print("La multiplicación de", numero1, "y", numero2, "es:", operaciones.multiplicacion_dos_numeros())
+
+     
